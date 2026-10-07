@@ -1,0 +1,6 @@
+[theme]
+# colore principale coerente con i grafici (blu della palette)
+primaryColor = "#2a78d6"
+
+[browser]
+gatherUsageStats = false

@@ -141,4 +141,26 @@ erDiagram
 
 Granularità del fatto: una riga per richiesta di servizio. La dimensione Tempo è a livello di giorno; l'ora è un attributo del fatto. Lo schema completo è in `sql/schema.sql`.
 
-Il comando per la dashboard verrà aggiunto quando il componente sarà completato.
+### 4. Avviare la dashboard
+
+```
+streamlit run dashboard/app.py
+```
+
+Si apre nel browser all'indirizzo http://localhost:8501. Contiene:
+- **filtri** per periodo, zona e categoria di servizio, che aggiornano tutta la pagina;
+- **indicatori**: richieste totali, incassi, tempo medio di erogazione, clienti attivi, percentuale di clienti che tornano, percentuale di interventi in ritardo;
+- **grafici**: andamento mensile delle richieste, top 5 fornitori per incassi, richieste per zona e per categoria, mappa di calore per giorno della settimana e ora;
+- una **vista tabellare** con il riepilogo per zona e categoria e il download in CSV delle richieste filtrate.
+
+## Riproduzione completa in un minuto
+
+```
+pip install -r requirements.txt
+python src/genera_dati.py
+python src/etl.py
+python src/kpi.py
+streamlit run dashboard/app.py
+```
+
+Con i parametri predefiniti (seed 42) si ottengono: 600 richieste, 43.157,62 € di incassi, 25,5 ore di tempo medio di erogazione, 198 clienti attivi e il 54% di clienti che tornano.

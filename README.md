@@ -40,4 +40,23 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-I comandi per generare i dati, eseguire l'ETL e avviare la dashboard verranno aggiunti man mano che i componenti sono completati.
+### 1. Generare i dati sintetici
+
+```
+python src/genera_dati.py
+```
+
+Crea `clienti.csv`, `fornitori.csv`, `operatori.csv` e `richieste.csv` in `data/raw/`.
+Parametri principali (tutti facoltativi):
+
+| Parametro | Default | Significato |
+|---|---|---|
+| `--seed` | 42 | seme casuale: stesso seme = stessi dati |
+| `--clienti` / `--fornitori` / `--operatori` / `--richieste` | 450 / 300 / 320 / 600 | numero di record (la traccia chiede 300–600) |
+| `--inizio` / `--fine` | 2025-07-01 / 2026-07-01 | periodo coperto dalle richieste |
+| `--annullate` / `--ritardi` | 0.08 / 0.12 | quota di richieste annullate e in ritardo (oltre 48 ore) |
+| `--sporcizia` | 0.03 | quota di righe con imperfezioni da correggere nell'ETL (0 = dati già puliti) |
+
+Le imperfezioni introdotte di proposito (maiuscole e spazi incoerenti, date in formato italiano, virgola decimale, valori mancanti, righe duplicate) servono a verificare la fase di pulizia dell'ETL.
+
+I comandi per l'ETL e la dashboard verranno aggiunti man mano che i componenti sono completati.

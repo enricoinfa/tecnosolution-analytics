@@ -1,305 +1,305 @@
 id_fornitore,nome,categoria_servizio,zona
-F154,TecnoExpress Catania,Recupero dati,Catania
-F016,CyberSolution Catania 9,Reti e Wi-Fi,Catania
-F171,MicroStore Trapani,Smartphone e tablet,Trapani
-F009,SmartAssist Messina,Installazione e config. software,Messina
-F112,LogicLab Catania,Installazione e config. software,Catania
-F040,InfoSystem Catania,Recupero dati,Catania
-F263,NetSolution Palermo,Reti e Wi-Fi,Palermo
-F001,PCShop Siracusa,Riparazione PC e hardware,Siracusa
-F176,NetService Caltanissetta,Riparazione PC e hardware,Caltanissetta
-F069,NetSystem Siracusa,Stampanti e periferiche,Siracusa
-F216,HelpTech Palermo 11,Reti e Wi-Fi,Palermo
-F151,DigiPoint Siracusa,Recupero dati,Siracusa
-F061,LogicTech Messina,Reti e Wi-Fi,Messina
-F203,ProntoTech Palermo,Recupero dati,Palermo
-F030,ByteFix Catania,Reti e Wi-Fi,Catania
-F297,ProntoAssist Agrigento,Riparazione PC e hardware,Agrigento
-F290,CyberTech Catania 75,Installazione e config. software,Catania
-F291,DataService Enna,Installazione e config. software,Enna
-F026,PCPoint Palermo,Installazione e config. software,Palermo
-F238,DataService Messina,Smartphone e tablet,Messina
-F294,InfoMarket Catania,Riparazione PC e hardware,Catania
-F071,HelpSolution Enna,Smartphone e tablet,Enna
-F153,CyberFix Ragusa,Stampanti e periferiche,Ragusa
-F122,InfoSolution Ragusa,Installazione e config. software,Ragusa
-F249,ProntoShop Messina,Installazione e config. software,Messina
-F289,GigaService Messina,Reti e Wi-Fi,Messina
-F198,CyberStore Catania,Riparazione PC e hardware,Catania
-F178,DataShop Trapani,Recupero dati,Trapani
-F278,MicroFix Messina,Reti e Wi-Fi,Messina
-F180,ProntoShop Enna,Stampanti e periferiche,Enna
-F268,SmartCenter Palermo,Riparazione PC e hardware,Palermo
-F035,NetService Siracusa,Stampanti e periferiche,Siracusa
-F150,InfoLab Agrigento,Riparazione PC e hardware,Agrigento
-F233,LogicPoint Caltanissetta,Riparazione PC e hardware,Caltanissetta
-F111,NetTech Messina,Riparazione PC e hardware,Messina
-F152,ProntoPlanet Agrigento 79,Reti e Wi-Fi,Agrigento
-F014,ClickWorld Enna,Smartphone e tablet,Enna
-F296,DigiAssist Trapani,Riparazione PC e hardware,Trapani
-F104,InfoSystem Catania 16,Recupero dati,Catania
-F044,LogicPoint Trapani,Recupero dati,Trapani
-F140,PCAssist Palermo,Smartphone e tablet,Palermo
-F106,TecnoTech Palermo,Stampanti e periferiche,Palermo
-F058,ByteSystem Messina,Reti e Wi-Fi,Messina
-F215,DigiTech Catania,Reti e Wi-Fi,Catania
-F273,SmartMarket Caltanissetta,Smartphone e tablet,Caltanissetta
-F245,GigaMarket Palermo,Recupero dati,Palermo
-F065,NetSolution Catania,Installazione e config. software,Catania
-F299,TecnoCenter Palermo,Riparazione PC e hardware,Palermo
-F253,PCSystem Palermo,Installazione e config. software,Palermo
-F130,DataFix Enna,Stampanti e periferiche,Enna
-F094,ByteLab Palermo 77,Smartphone e tablet,Palermo
-F141,InfoCenter Palermo,Stampanti e periferiche,Palermo
-F038,PCPlanet Messina,Smartphone e tablet,Messina
-F204,ByteSolution Trapani,Riparazione PC e hardware,Trapani
-F193,GigaFix Catania,Installazione e config. software,Catania
-F182,ClickLab Caltanissetta,Smartphone e tablet,Caltanissetta
-F045,TecnoAssist Messina,Recupero dati,Messina
-F202,DataWorld Caltanissetta,Riparazione PC e hardware,Caltanissetta
-F113,PCMarket Ragusa,Riparazione PC e hardware,Ragusa
-F179,HelpLab Palermo,Riparazione PC e hardware,Palermo
-F259,NetPoint Catania,Riparazione PC e hardware,Catania
-F197,DigiCenter Catania,Smartphone e tablet,Catania
-F194,DataCenter Messina,Riparazione PC e hardware,Messina
-F087,SmartPlanet Siracusa,stampanti e periferiche,Siracusa
-F139,SmartFix Catania,Installazione e config. software,Catania
-F149,ClickExpress Palermo,Installazione e config. software,Palermo
-F279,TecnoExpress Palermo,Smartphone e tablet,Palermo
-F142,ProntoFix Enna,Riparazione PC e hardware,Enna
-F284,HelpPoint Palermo,Recupero dati,Palermo
-F220,NetCenter Siracusa,Stampanti e periferiche,Siracusa
-F280,DataMarket Palermo,Riparazione PC e hardware,Palermo
-F021,DigiExpress Ragusa,Riparazione PC e hardware,Ragusa
-F064,SmartFix Palermo,Recupero dati,Palermo
-F209,ClickWorld Siracusa,  Installazione e config. software ,Siracusa
-F211,LogicPoint Ragusa,Riparazione PC e hardware,Ragusa
-F022,ByteLab Palermo,Reti e Wi-Fi,Palermo
-F099,ProntoPoint Enna,Stampanti e periferiche,Enna
-F046,CyberService Palermo,Smartphone e tablet,Palermo
-F275,PCSolution Catania,Stampanti e periferiche,Catania
-F076,SmartTech Ragusa,Stampanti e periferiche,Ragusa
-F089,NetCenter Catania,Reti e Wi-Fi,  Catania 
-F032,ClickSolution Palermo,Stampanti e periferiche,Palermo
-F277,GigaService Catania,Installazione e config. software,Catania
+F267,MicroMarket Agrigento,Riparazione PC e hardware,Agrigento
+F028,InfoLab Ragusa,Reti e Wi-Fi,Ragusa
+F034,MicroWorld Palermo,Stampanti e periferiche,Palermo
 F127,PCMarket Palermo,Recupero dati,Palermo
 F144,DataPoint Catania,Recupero dati,Catania
-F034,MicroWorld Palermo,Stampanti e periferiche,Palermo
-F049,DigiSolution Ragusa,Smartphone e tablet,Ragusa
-F292,HelpSolution Palermo 34,Smartphone e tablet,Palermo
-F010,ByteWorld Ragusa,Smartphone e tablet,Ragusa
-F236,GigaLab Palermo,Recupero dati,Palermo
-F004,DataMarket Agrigento,Reti e Wi-Fi,Agrigento
-F200,ProntoCenter Catania,SMARTPHONE E TABLET,Catania
-F285,HelpStore Siracusa,Recupero dati,Siracusa
-F286,ProntoWorld Ragusa,Recupero dati,Ragusa
-F267,MicroMarket Agrigento,RIPARAZIONE PC E HARDWARE,Agrigento
-F184,GigaCenter Catania,Recupero dati,Catania
-F124,ProntoPoint Catania,Recupero dati,Catania
-F011,SmartSystem Palermo,Stampanti e periferiche,Palermo
-F037,GigaSolution Messina,Installazione e config. software,Messina
-F143,ClickPlanet Messina,Stampanti e periferiche,Messina
-F167,DigiSolution Messina,Riparazione PC e hardware,Messina
-F208,DataMarket Trapani,Reti e Wi-Fi,Trapani
-F114,SmartWorld Messina,Installazione e config. software,Messina
-F258,HelpCenter Catania 76,Riparazione PC e hardware,Catania
-F218,PCCenter Palermo,Reti e Wi-Fi,Palermo
-F288,PCService Trapani,Riparazione PC e hardware,Trapani
-F177,TecnoSolution Catania,Reti e Wi-Fi,Catania
-F159,ClickPlanet Catania,Smartphone e tablet,Catania
-F090,SmartPoint Ragusa,Reti e Wi-Fi,Ragusa
-F129,ByteTech Trapani,Smartphone e tablet,Trapani
-F036,HelpExpress Siracusa,Recupero dati,Siracusa
-F080,ClickCenter Messina,Recupero dati,Messina
-F088,TecnoShop Palermo,Recupero dati,Palermo
-F042,ByteStore Siracusa,Stampanti e periferiche,Siracusa
-F241,HelpMarket Ragusa,Recupero dati,Ragusa
-F272,HelpPlanet Agrigento,Stampanti e periferiche,Agrigento
-F148,LogicLab Catania 92,Reti e Wi-Fi,Catania
-F125,MicroLab Messina,Recupero dati,Messina
-F098,PCWorld Siracusa,Reti e Wi-Fi,Siracusa
-F269,MicroExpress Enna,Riparazione PC e hardware,Enna
-F155,ByteAssist Palermo,Recupero dati,Palermo
-F228,MicroAssist Caltanissetta,Recupero dati,Caltanissetta
+F173,LogicSystem Palermo,Reti e Wi-Fi,Palermo
+F176,NetService Caltanissetta,Riparazione PC e hardware,Caltanissetta
+F243,HelpLab Palermo 52,Installazione e config. software,Palermo
+F297,ProntoAssist Agrigento,Riparazione PC e hardware,Agrigento
+F046,CyberService Palermo,Smartphone e tablet,Palermo
 F246,TecnoLab Ragusa,Stampanti e periferiche,Ragusa
-F175,CyberFix Palermo 92,INSTALLAZIONE E CONFIG. SOFTWARE,Palermo
-F162,ProntoFix Palermo 61,Installazione e config. software,Palermo
-F174,DataLab Catania,Reti e Wi-Fi,Catania
-F047,InfoSolution Palermo,Installazione e config. software,Palermo
-F206,TecnoPoint Messina,Installazione e config. software,Messina
-F145,ProntoPlanet Agrigento,Stampanti e periferiche,Agrigento
-F025,DigiWorld Siracusa,Installazione e config. software,SIRACUSA
-F123,InfoWorld Palermo,Stampanti e periferiche,Palermo
-F117,HelpTech Palermo,Riparazione PC e hardware,Palermo
-F085,DataShop Catania,Reti e Wi-Fi,Catania
-F012,NetCenter Ragusa,smartphone e tablet,Ragusa
-F212,InfoTech Messina,Reti e Wi-Fi,Messina
-F252,MicroMarket Palermo,Smartphone e tablet,Palermo
-F132,ProntoService Messina 45,Installazione e config. software,Messina
-F097,ProntoPlanet Catania,Recupero dati,Catania
-F191,ClickPlanet Enna,Riparazione PC e hardware,Enna
-F219,DigiTech Enna,Installazione e config. software,Enna
-F062,DataWorld Catania,Installazione e config. software,Catania
-F166,GigaService Ragusa,Recupero dati,Ragusa
-F067,NetAssist Ragusa,Reti e Wi-Fi,Ragusa
-F283,TecnoWorld Caltanissetta,Stampanti e periferiche,caltanissetta
-F073,HelpCenter Catania,Smartphone e tablet,Catania
-F053,InfoTech Agrigento,Riparazione PC e hardware,Agrigento
-F244,HelpPoint Catania 72,Smartphone e tablet,Catania
-F183,MicroWorld Palermo 65,Smartphone e tablet,Palermo
-F103,TecnoMarket Catania,Reti e Wi-Fi,Catania
-F013,NetExpress Catania,Recupero dati,Catania
-F110,DataExpress Enna,Reti e Wi-Fi,Enna
-F074,TecnoPlanet Messina,Recupero dati,Messina
-F134,ClickStore Catania,Installazione e config. software,Catania
-F017,MicroSolution Messina,Stampanti e periferiche,Messina
-F050,ClickAssist Palermo,Recupero dati,Palermo
-F020,PCShop Palermo,Riparazione PC e hardware,Palermo
-F101,ProntoFix Palermo,Reti e Wi-Fi,Palermo
-F115,GigaTech Palermo,Smartphone e tablet,Palermo
-F229,GigaFix Palermo,Stampanti e periferiche,Palermo
-F060,TecnoService Trapani,Smartphone e tablet,Trapani
-F135,InfoPlanet Palermo,Smartphone e tablet,Palermo
-F225,DataWorld Messina,Smartphone e tablet,Messina
-F081,DigiService Palermo,RIPARAZIONE PC E HARDWARE,Palermo
-F054,GigaStore Caltanissetta,Installazione e config. software,Caltanissetta
-F084,ByteSolution Catania,Riparazione PC e hardware,Catania
+F146,LogicService Caltanissetta,Smartphone e tablet,Caltanissetta
+F293,DataPoint Messina,Smartphone e tablet,Messina
+F159,ClickPlanet Catania,Smartphone e tablet,Catania
+F202,DataWorld Caltanissetta,Riparazione PC e hardware,Caltanissetta
+F133,CyberLab Palermo,Stampanti e periferiche,Palermo
 F055,GigaPlanet Messina,Stampanti e periferiche,Messina
-F102,DigiPoint Enna,Stampanti e periferiche,Enna
-F147,ByteTech Agrigento,Stampanti e periferiche,AGRIGENTO
-F271,TecnoAssist Messina 59,Reti e Wi-Fi,Messina
+F063,GigaPoint Trapani,Stampanti e periferiche,Trapani
+F151,DigiPoint Siracusa,Recupero dati,Siracusa
+F203,ProntoTech Palermo,Recupero dati,Palermo
+F056,TecnoPoint Ragusa,Smartphone e tablet,Ragusa
+F073,HelpCenter Catania,Smartphone e tablet,Catania
+F163,MicroSystem Catania,Smartphone e tablet,Catania
+F109,ByteTech Caltanissetta,Reti e Wi-Fi,Caltanissetta
+F131,TecnoSystem Palermo,Installazione e config. software,Palermo
+F160,PCPoint Messina,Installazione e config. software,Messina
+F081,DigiService Palermo,Riparazione PC e hardware,palermo
+F092,MicroAssist Palermo,Recupero dati,Palermo
+F154,TecnoExpress Catania,Recupero dati,  Catania 
+F169,MicroService Catania,Reti e Wi-Fi,Catania
+F002,DigiStore Agrigento,Installazione e config. software,Agrigento
+F200,ProntoCenter Catania,Smartphone e tablet,Catania
+F280,DataMarket Palermo,Riparazione PC e hardware,Palermo
+F199,SmartExpress Messina,riparazione pc e hardware,messina
+F184,GigaCenter Catania,Recupero dati,Catania
+F128,NetAssist Caltanissetta,Recupero dati,Caltanissetta
+F218,PCCenter Palermo,Reti e Wi-Fi,Palermo
+F103,TecnoMarket Catania,Reti e Wi-Fi,Catania
+F113,PCMarket Ragusa,Riparazione PC e hardware,Ragusa
+F289,GigaService Messina,Reti e Wi-Fi,Messina
+F183,MicroWorld Palermo 65,Smartphone e tablet,Palermo
+F229,GigaFix Palermo,Stampanti e periferiche,Palermo
+F004,DataMarket Agrigento,Reti e Wi-Fi,Agrigento
+F242,SmartAssist Messina 8,Recupero dati,Messina
+F211,LogicPoint Ragusa,Riparazione PC e hardware,Ragusa
+F208,DataMarket Trapani,Reti e Wi-Fi,TRAPANI
+F057,CyberSystem Siracusa,Stampanti e periferiche,Siracusa
+F001,PCShop Siracusa,Riparazione PC e hardware,Siracusa
+F227,DataCenter Catania,Smartphone e tablet,Catania
+F250,ClickSystem Agrigento,Recupero dati,Agrigento
+F145,ProntoPlanet Agrigento,Stampanti e periferiche,Agrigento
+F050,ClickAssist Palermo,RECUPERO DATI,Palermo
+F207,TecnoPoint Agrigento,Reti e Wi-Fi,Agrigento
+F031,TecnoAssist Agrigento,Installazione e config. software,Agrigento
+F193,GigaFix Catania,Installazione e config. software,Catania
+F101,ProntoFix Palermo,Reti e Wi-Fi,Palermo
+F272,HelpPlanet Agrigento,Stampanti e periferiche,Agrigento
+F015,GigaCenter Agrigento,Installazione e config. software,Agrigento
+F087,SmartPlanet Siracusa,Stampanti e periferiche,Siracusa
+F241,HelpMarket Ragusa,Recupero dati,Ragusa
+F190,ByteLab Siracusa,Installazione e config. software,Siracusa
+F022,ByteLab Palermo,Reti e Wi-Fi,Palermo
+F027,InfoMarket Messina,Recupero dati,Messina
+F013,NetExpress Catania,Recupero dati,Catania
+F197,DigiCenter Catania,Smartphone e tablet,Catania
+F285,HelpStore Siracusa,Recupero dati,Siracusa
+F187,ClickSystem Catania,Riparazione PC e hardware,Catania
+F244,HelpPoint Catania 72,Smartphone e tablet,Catania
+F194,DataCenter Messina,Riparazione PC e hardware,Messina
+F080,ClickCenter Messina,Recupero dati,Messina
+F255,ProntoStore Trapani,Stampanti e periferiche,Trapani
+F284,HelpPoint Palermo,Recupero dati,Palermo
+F086,InfoCenter Siracusa,Installazione e config. software,SIRACUSA
+F196,CyberFix Catania 20,Stampanti e periferiche,Catania
+F248,ProntoStore Ragusa,Reti e Wi-Fi,Ragusa
+F182,ClickLab Caltanissetta,Smartphone e tablet,Caltanissetta
+F230,SmartPlanet Palermo 36,Reti e Wi-Fi,Palermo
+F069,NetSystem Siracusa,Stampanti e periferiche,Siracusa
+F262,HelpLab Ragusa,Smartphone e tablet,Ragusa
+F273,SmartMarket Caltanissetta,Smartphone e tablet,Caltanissetta
+F008,InfoExpress Enna,Smartphone e tablet,Enna
+F097,ProntoPlanet Catania,Recupero dati,Catania
+F143,ClickPlanet Messina,STAMPANTI E PERIFERICHE,Messina
+F172,InfoService Siracusa,Installazione e config. software,Siracusa
+F023,ProntoService Messina,Recupero dati,Messina
+F298,InfoAssist Messina,Smartphone e tablet,Messina
+F064,SmartFix Palermo,RECUPERO DATI,Palermo
+F158,ClickMarket Catania,Smartphone e tablet,Catania
+F245,GigaMarket Palermo,Recupero dati,Palermo
+F111,NetTech Messina,Riparazione PC e hardware,Messina
+F162,ProntoFix Palermo 61,Installazione e config. software,Palermo
+F258,HelpCenter Catania 76,Riparazione PC e hardware,Catania
+F149,ClickExpress Palermo,Installazione e config. software,Palermo
+F219,DigiTech Enna,Installazione e config. software,Enna
+F212,InfoTech Messina,Reti e Wi-Fi,Messina
+F266,ProntoMarket Palermo,Reti e Wi-Fi,PALERMO
+F152,ProntoPlanet Agrigento 79,Reti e Wi-Fi,Agrigento
+F168,DigiCenter Ragusa,Smartphone e tablet,Ragusa
+F141,InfoCenter Palermo,Stampanti e periferiche,Palermo
+F070,ClickLab Catania,Smartphone e tablet,Catania
+F281,ClickLab Palermo,Recupero dati,Palermo
+F093,DataMarket Catania,Reti e Wi-Fi,Catania
+F287,HelpSystem Messina,Smartphone e tablet,Messina
+F130,DataFix Enna,Stampanti e periferiche,enna
+F221,HelpPoint Catania,Stampanti e periferiche,Catania
+F270,NetSystem Palermo,Reti e Wi-Fi,Palermo
+F189,TecnoFix Siracusa,Installazione e config. software,Siracusa
+F210,CyberSolution Agrigento,Stampanti e periferiche,Agrigento
+F124,ProntoPoint Catania,Recupero dati,Catania
+F062,DataWorld Catania,Installazione e config. software,Catania
+F019,ProntoShop Catania,Smartphone e tablet,Catania
+F196,CyberFix Catania 20,Stampanti e periferiche,Catania
+F222,CyberPoint Trapani,Installazione e config. software,Trapani
+F291,DataService Enna,Installazione e config. software,Enna
+F030,ByteFix Catania,Reti e Wi-Fi,Catania
+F134,ClickStore Catania,Installazione e config. software,Catania
+F005,LogicStore Enna,Smartphone e tablet,Enna
+F047,InfoSolution Palermo,Installazione e config. software,Palermo
+F007,CyberSolution Catania,Stampanti e periferiche,Catania
+F175,CyberFix Palermo 92,Installazione e config. software,Palermo
+F177,TecnoSolution Catania,Reti e Wi-Fi,Catania
+F045,TecnoAssist Messina,Recupero dati,Messina
+F249,ProntoShop Messina,Installazione e config. software,Messina
+F049,DigiSolution Ragusa,Smartphone e tablet,Ragusa
+F068,SmartPlanet Ragusa,Stampanti e periferiche,Ragusa
+F238,DataService Messina,Smartphone e tablet,Messina
+F135,InfoPlanet Palermo,Smartphone e tablet,Palermo
+F025,DigiWorld Siracusa,Installazione e config. software,Siracusa
+F214,CyberPoint Catania,Recupero dati,Catania
+F032,ClickSolution Palermo,Stampanti e periferiche,Palermo
+F126,HelpPlanet Palermo,Stampanti e periferiche,Palermo
+F274,DataSolution Palermo 74,Installazione e config. software,Palermo
+F052,ClickSystem Enna,Stampanti e periferiche,Enna
+F252,MicroMarket Palermo,Smartphone e tablet,Palermo
+F016,CyberSolution Catania 9,Reti e Wi-Fi,Catania
+F048,ByteLab Catania,Recupero dati,Catania
+F014,ClickWorld Enna,Smartphone e tablet,Enna
+F089,NetCenter Catania,Reti e Wi-Fi,Catania
+F088,TecnoShop Palermo,Recupero dati,Palermo
+F263,NetSolution Palermo,Reti e Wi-Fi,Palermo
+F277,GigaService Catania,Installazione e config. software,Catania
+F181,NetSystem Ragusa,Riparazione PC e hardware,Ragusa
+F084,ByteSolution Catania,Riparazione PC e hardware,Catania
+F125,MicroLab Messina,Recupero dati,Messina
+F206,TecnoPoint Messina,Installazione e config. software,Messina
+F115,GigaTech Palermo,Smartphone e tablet,Palermo
+F225,DataWorld Messina,Smartphone e tablet,Messina
+F240,DigiLab Catania,Recupero dati,Catania
+F116,PCShop Palermo 40,Stampanti e periferiche,Palermo
+F011,SmartSystem Palermo,Stampanti e periferiche,Palermo
+F117,HelpTech Palermo,Riparazione PC e hardware,Palermo
+F286,ProntoWorld Ragusa,Recupero dati,Ragusa
+F228,MicroAssist Caltanissetta,Recupero dati,Caltanissetta
+F259,NetPoint Catania,Riparazione PC e hardware,Catania
+F235,PCStore Palermo 40,Stampanti e periferiche,Palermo
+F006,SmartStore Catania,Reti e Wi-Fi,Catania
+F059,DigiTech Trapani,Stampanti e periferiche,Trapani
+F017,MicroSolution Messina,Stampanti e periferiche,Messina
+F096,NetPlanet Siracusa,Recupero dati,Siracusa
+F247,ClickPoint Palermo,Smartphone e tablet,Palermo
+F099,ProntoPoint Enna,Stampanti e periferiche,Enna
+F300,GigaWorld Messina,Smartphone e tablet,Messina
+F114,SmartWorld Messina,Installazione e config. software,Messina
+F039,SmartPlanet Palermo,Recupero dati,Palermo
+F150,InfoLab Agrigento,Riparazione PC e hardware,Agrigento
+F075,ProntoSystem Catania,Reti e Wi-Fi,Catania
+F167,DigiSolution Messina,Riparazione PC e hardware,Messina
+F035,NetService Siracusa,Stampanti e periferiche,Siracusa
+F108,DataSolution Palermo,Riparazione PC e hardware,Palermo
+F110,DataExpress Enna,Reti e Wi-Fi,Enna
+F236,GigaLab Palermo,Recupero dati,Palermo
+F054,GigaStore Caltanissetta,Installazione e config. software,Caltanissetta
+F294,InfoMarket Catania,Riparazione PC e hardware,Catania
+F201,MicroCenter Enna,RETI E WI-FI,Enna
+F148,LogicLab Catania 92,Reti e Wi-Fi,Catania
+F292,HelpSolution Palermo 34,Smartphone e tablet,Palermo
+F153,CyberFix Ragusa,  Stampanti e periferiche ,Ragusa
+F037,GigaSolution Messina,Installazione e config. software,Messina
+F256,InfoFix Catania,Smartphone e tablet,Catania
+F043,CyberSystem Agrigento,Riparazione PC e hardware,Agrigento
+F261,CyberShop Palermo,Recupero dati,Palermo
+F138,DigiShop Catania,Reti e Wi-Fi,Catania
+F010,ByteWorld Ragusa,Smartphone e tablet,Ragusa
+F296,DigiAssist Trapani,Riparazione PC e hardware,Trapani
+F122,InfoSolution Ragusa,Installazione e config. software,Ragusa
 F192,DataService Ragusa,Riparazione PC e hardware,Ragusa
 F066,GigaLab Trapani,Stampanti e periferiche,Trapani
-F260,DigiStore Ragusa,Reti e Wi-Fi,Ragusa
-F168,DigiCenter Ragusa,Smartphone e tablet,Ragusa
-F276,ClickWorld Trapani,Stampanti e periferiche,Trapani
-F234,InfoShop Palermo,Smartphone e tablet,Palermo
-F210,CyberSolution Agrigento,Stampanti e periferiche,Agrigento
-F146,LogicService Caltanissetta,Smartphone e tablet,caltanissetta
-F057,CyberSystem Siracusa,Stampanti e periferiche,Siracusa
-F118,DataTech Palermo,Reti e Wi-Fi,Palermo
-F063,GigaPoint Trapani,Stampanti e periferiche,Trapani
-F031,TecnoAssist Agrigento,Installazione e config. software,Agrigento
-F100,GigaSolution Catania,Riparazione PC e hardware,Catania
-F029,DigiStore Siracusa,Riparazione PC e hardware,Siracusa
-F156,ByteExpress Catania,Smartphone e tablet,Catania
-F256,InfoFix Catania,Smartphone e tablet,Catania
-F190,ByteLab Siracusa,Installazione e config. software,Siracusa
-F248,ProntoStore Ragusa,Reti e Wi-Fi,Ragusa
-F262,HelpLab Ragusa,Smartphone e tablet,Ragusa
-F242,SmartAssist Messina 8,Recupero dati,Messina
-F048,ByteLab Catania,Recupero dati,Catania
-F170,ClickFix Palermo,Installazione e config. software,Palermo
-F005,LogicStore Enna,Smartphone e tablet,Enna
-F293,DataPoint Messina,Smartphone e tablet,Messina
-F126,HelpPlanet Palermo,Stampanti e periferiche,Palermo
-F007,CyberSolution Catania,Stampanti e periferiche,Catania
-F295,MicroFix Messina 65,Installazione e config. software,Messina
-F092,MicroAssist Palermo,Recupero dati,Palermo
-F165,GigaSystem Agrigento,Reti e Wi-Fi,Agrigento
-F075,ProntoSystem Catania,Reti e Wi-Fi,Catania
-F002,DigiStore Agrigento,Installazione e config. software,Agrigento
-F254,TecnoAssist Caltanissetta,Stampanti e periferiche,Caltanissetta
-F266,ProntoMarket Palermo,Reti e Wi-Fi,Palermo
-F161,ByteFix Catania 50,Reti e Wi-Fi,Catania
-F240,DigiLab Catania,Recupero dati,Catania
-F237,DigiShop Messina,Riparazione PC e hardware,Messina
-F082,HelpSolution Palermo,Riparazione PC e hardware,Palermo
-F221,HelpPoint Catania,Stampanti e periferiche,Catania
-F186,ByteSolution Palermo,Recupero dati,Palermo
-F138,DigiShop Catania,Reti e Wi-Fi,Catania
-F121,CyberFix Catania,Stampanti e periferiche,Catania
-F091,SmartStore Messina,Smartphone e tablet,Messina
-F078,ByteStore Enna,Stampanti e periferiche,Enna
-F195,DataFix Palermo,Installazione e config. software,Palermo
-F027,InfoMarket Messina,Recupero dati,Messina
-F028,InfoLab Ragusa,Reti e Wi-Fi,Ragusa
-F108,DataSolution Palermo,Riparazione PC e hardware,Palermo
-F015,GigaCenter Agrigento,Installazione e config. software,Agrigento
-F196,CyberFix Catania 20,Stampanti e periferiche,Catania
-F018,CyberTech Catania,Installazione e config. software,Catania
-F224,GigaStore Agrigento,Reti e Wi-Fi,Agrigento
-F072,DigiTech Palermo,Stampanti e periferiche,Palermo
-F157,SmartPoint Catania,Recupero dati,Catania
-F207,TecnoPoint Agrigento,Reti e Wi-Fi,Agrigento
-F146,LogicService Caltanissetta,Smartphone e tablet,caltanissetta
-F043,CyberSystem Agrigento,Riparazione PC e hardware,Agrigento
-F188,HelpSolution Palermo 5,Stampanti e periferiche,Palermo
-F164,LogicTech Catania,Stampanti e periferiche,Catania
-F059,DigiTech Trapani,Stampanti e periferiche,Trapani
-F052,ClickSystem Enna,Stampanti e periferiche,Enna
-F227,DataCenter Catania,Smartphone e tablet,Catania
-F231,PCService Catania,Riparazione PC e hardware,Catania
-F107,GigaPlanet Catania,Installazione e config. software,CATANIA
-F008,InfoExpress Enna,Smartphone e tablet,Enna
-F300,GigaWorld Messina,Smartphone e tablet,Messina
-F189,TecnoFix Siracusa,Installazione e config. software,Siracusa
-F128,NetAssist Caltanissetta,Recupero dati,Caltanissetta
-F243,HelpLab Palermo 52,Installazione e config. software,Palermo
-F264,InfoCenter Palermo 75,Riparazione PC e hardware,Palermo
-F105,GigaPoint Messina,Installazione e config. software,Messina
-F096,NetPlanet Siracusa,Recupero dati,Siracusa
-F119,DataFix Catania,Recupero dati,Catania
-F136,NetMarket Catania,Riparazione PC e hardware,Catania
-F250,ClickSystem Agrigento,Recupero dati,  Agrigento 
-F282,DigiMarket Agrigento,Reti e Wi-Fi,Agrigento
-F274,DataSolution Palermo 74,Installazione e config. software,palermo
-F298,InfoAssist Messina,Smartphone e tablet,Messina
-F187,ClickSystem Catania,Riparazione PC e hardware,  Catania 
-F023,ProntoService Messina,Recupero dati,Messina
-F205,GigaPoint Catania,Reti e Wi-Fi,Catania
-F079,CyberFix Palermo,Installazione e config. software,Palermo
-F095,PCPoint Enna,Reti e Wi-Fi,Enna
-F190,ByteLab Siracusa,Installazione e config. software,Siracusa
-F083,PCStore Palermo,Riparazione PC e hardware,Palermo
-F019,ProntoShop Catania,Smartphone e tablet,Catania
-F265,PCPoint Enna 34,Installazione e config. software,Enna
-F251,ClickExpress Messina,Recupero dati,Messina
-F163,MicroSystem Catania,Smartphone e tablet,Catania
-F199,SmartExpress Messina,Riparazione PC e hardware,Messina
-F109,ByteTech Caltanissetta,Reti e Wi-Fi,Caltanissetta
-F056,TecnoPoint Ragusa,Smartphone e tablet,Ragusa
-F068,SmartPlanet Ragusa,Stampanti e periferiche,Ragusa
-F024,InfoLab Catania,Riparazione PC e hardware,Catania
-F039,SmartPlanet Palermo,Recupero dati,Palermo
-F077,DataPoint Ragusa,Riparazione PC e hardware,Ragusa
-F201,MicroCenter Enna,Reti e Wi-Fi,Enna
-F006,SmartStore Catania,Reti e Wi-Fi,Catania
-F214,CyberPoint Catania,Recupero dati,Catania
-F223,GigaTech Palermo 97,Installazione e config. software,Palermo
-F131,TecnoSystem Palermo,INSTALLAZIONE E CONFIG. SOFTWARE,Palermo
-F041,HelpCenter Palermo,Smartphone e tablet,Palermo
-F172,InfoService Siracusa,Installazione e config. software,Siracusa
-F226,BytePlanet Catania,Recupero dati,Catania
-F217,HelpPlanet Caltanissetta,Smartphone e tablet,Caltanissetta
-F051,ClickCenter Palermo,Installazione e config. software,Palermo
-F222,CyberPoint Trapani,Installazione e config. software,Trapani
-F086,InfoCenter Siracusa,Installazione e config. software,Siracusa
-F173,LogicSystem Palermo,Reti e Wi-Fi,Palermo
-F003,GigaSystem Caltanissetta,Smartphone e tablet,Caltanissetta
-F287,HelpSystem Messina,Smartphone e tablet,Messina
-F230,SmartPlanet Palermo 36,Reti e Wi-Fi,Palermo
-F255,ProntoStore Trapani,Stampanti e periferiche,Trapani
-F160,PCPoint Messina,Installazione e config. software,Messina
-F232,LogicSystem Agrigento,Reti e Wi-Fi,Agrigento
-F281,ClickLab Palermo,Recupero dati,Palermo
-F270,NetSystem Palermo,Reti e Wi-Fi,Palermo
-F158,ClickMarket Catania,SMARTPHONE E TABLET,Catania
-F093,DataMarket Catania,Reti e Wi-Fi,Catania
-F033,DigiFix Caltanissetta,Installazione e config. software,Caltanissetta
-F156,ByteExpress Catania,Smartphone e tablet,Catania
-F181,NetSystem Ragusa,Riparazione PC e hardware,Ragusa
-F169,MicroService Catania,Reti e Wi-Fi,Catania
-F247,ClickPoint Palermo,Smartphone e tablet,Palermo
-F261,CyberShop Palermo,Recupero dati,Palermo
-F235,PCStore Palermo 40,Stampanti e periferiche,Palermo
-F257,NetShop Messina,Recupero dati,Messina
-F051,ClickCenter Palermo,Installazione e config. software,Palermo
-F070,ClickLab Catania,Smartphone e tablet,Catania
-F116,PCShop Palermo 40,Stampanti e periferiche,Palermo
 F137,InfoCenter Catania,Stampanti e periferiche,Catania
-F120,PCTech Catania,Riparazione PC e hardware,Catania
+F078,ByteStore Enna,Stampanti e periferiche,Enna
+F076,SmartTech Ragusa,Stampanti e periferiche,Ragusa
+F126,HelpPlanet Palermo,Stampanti e periferiche,Palermo
+F275,PCSolution Catania,Stampanti e periferiche,Catania
+F018,CyberTech Catania,Installazione e config. software,Catania
+F083,PCStore Palermo,Riparazione PC e hardware,Palermo
 F213,NetPlanet Ragusa,Installazione e config. software,Ragusa
+F139,SmartFix Catania,Installazione e config. software,Catania
+F179,HelpLab Palermo,Riparazione PC e hardware,Palermo
+F215,DigiTech Catania,Reti e Wi-Fi,Catania
+F299,TecnoCenter Palermo,Riparazione PC e hardware,Palermo
+F040,InfoSystem Catania,Recupero dati,Catania
+F178,DataShop Trapani,Recupero dati,Trapani
+F044,LogicPoint Trapani,Recupero dati,Trapani
+F224,GigaStore Agrigento,Reti e Wi-Fi,Agrigento
+F282,DigiMarket Agrigento,Reti e Wi-Fi,Agrigento
+F020,PCShop Palermo,Riparazione PC e hardware,Palermo
+F147,ByteTech Agrigento,Stampanti e periferiche,Agrigento
+F021,DigiExpress Ragusa,Riparazione PC e hardware,Ragusa
+F253,PCSystem Palermo,Installazione e config. software,Palermo
+F264,InfoCenter Palermo 75,Riparazione PC e hardware,Palermo
+F234,InfoShop Palermo,Smartphone e tablet,Palermo
+F188,HelpSolution Palermo 5,Stampanti e periferiche,Palermo
+F260,DigiStore Ragusa,Reti e Wi-Fi,Ragusa
+F170,ClickFix Palermo,Installazione e config. software,Palermo
+F012,NetCenter Ragusa,Smartphone e tablet,RAGUSA
+F198,CyberStore Catania,Riparazione PC e hardware,Catania
+F251,ClickExpress Messina,Recupero dati,Messina
+F171,MicroStore Trapani,Smartphone e tablet,Trapani
+F155,ByteAssist Palermo,Recupero dati,Palermo
+F071,HelpSolution Enna,Smartphone e tablet,Enna
+F074,TecnoPlanet Messina,Recupero dati,Messina
+F231,PCService Catania,Riparazione PC e hardware,Catania
+F104,InfoSystem Catania 16,Recupero dati,Catania
+F082,HelpSolution Palermo,Riparazione PC e hardware,Palermo
+F195,DataFix Palermo,Installazione e config. software,Palermo
+F121,CyberFix Catania,Stampanti e periferiche,Catania
+F123,InfoWorld Palermo,Stampanti e periferiche,Palermo
+F257,NetShop Messina,Recupero dati,Messina
+F065,NetSolution Catania,Installazione e config. software,Catania
+F165,GigaSystem Agrigento,Reti e Wi-Fi,Agrigento
+F119,DataFix Catania,Recupero dati,Catania
+F237,DigiShop Messina,Riparazione PC e hardware,Messina
+F085,DataShop Catania,Reti e Wi-Fi,Catania
+F204,ByteSolution Trapani,Riparazione PC e hardware,Trapani
+F042,ByteStore Siracusa,STAMPANTI E PERIFERICHE,Siracusa
+F269,MicroExpress Enna,Riparazione PC e hardware,Enna
+F094,ByteLab Palermo 77,Smartphone e tablet,Palermo
+F060,TecnoService Trapani,Smartphone e tablet,Trapani
+F136,NetMarket Catania,Riparazione PC e hardware,Catania
+F279,TecnoExpress Palermo,Smartphone e tablet,Palermo
+F161,ByteFix Catania 50,  Reti e Wi-Fi ,Catania
+F295,MicroFix Messina 65,Installazione e config. software,Messina
+F120,PCTech Catania,Riparazione PC e hardware,Catania
+F026,PCPoint Palermo,Installazione e config. software,Palermo
+F036,HelpExpress Siracusa,Recupero dati,Siracusa
+F268,SmartCenter Palermo,Riparazione PC e hardware,Palermo
 F239,SmartCenter Ragusa,Recupero dati,Ragusa
-F185,SmartPlanet Catania,Riparazione PC e hardware,Catania
-F133,CyberLab Palermo,Stampanti e periferiche,Palermo
+F254,TecnoAssist Caltanissetta,Stampanti e periferiche,Caltanissetta
+F283,TecnoWorld Caltanissetta,Stampanti e periferiche,Caltanissetta
+F278,MicroFix Messina,Reti e Wi-Fi,Messina
+F276,ClickWorld Trapani,Stampanti e periferiche,Trapani
+F271,TecnoAssist Messina 59,Reti e Wi-Fi,Messina
+F098,PCWorld Siracusa,Reti e Wi-Fi,Siracusa
+F129,ByteTech Trapani,Smartphone e tablet,Trapani
+F058,ByteSystem Messina,Reti e Wi-Fi,Messina
+F166,GigaService Ragusa,Recupero dati,Ragusa
+F119,DataFix Catania,Recupero dati,Catania
+F051,ClickCenter Palermo,Installazione e config. software,Palermo
+F191,ClickPlanet Enna,Riparazione PC e hardware,Enna
+F091,SmartStore Messina,Smartphone e tablet,Messina
+F142,ProntoFix Enna,Riparazione PC e hardware,Enna
+F233,LogicPoint Caltanissetta,Riparazione PC e hardware,Caltanissetta
+F226,BytePlanet Catania,Recupero dati,Catania
+F156,ByteExpress Catania,Smartphone e tablet,Catania
+F102,DigiPoint Enna,Stampanti e periferiche,Enna
+F112,LogicLab Catania,Installazione e config. software,Catania
+F232,LogicSystem Agrigento,Reti e Wi-Fi,Agrigento
+F106,TecnoTech Palermo,Stampanti e periferiche,Palermo
+F003,GigaSystem Caltanissetta,Smartphone e tablet,Caltanissetta
+F205,GigaPoint Catania,Reti e Wi-Fi,Catania
+F095,PCPoint Enna,Reti e Wi-Fi,Enna
+F186,ByteSolution Palermo,Recupero dati,Palermo
+F009,SmartAssist Messina,Installazione e config. software,Messina
+F090,SmartPoint Ragusa,Reti e Wi-Fi,Ragusa
+F024,InfoLab Catania,Riparazione PC e hardware,Catania
+F132,ProntoService Messina 45,Installazione e config. software,Messina
+F265,PCPoint Enna 34,Installazione e config. software,Enna
+F223,GigaTech Palermo 97,Installazione e config. software,Palermo
+F157,SmartPoint Catania,Recupero dati,CATANIA
+F041,HelpCenter Palermo,Smartphone e tablet,Palermo
+F061,LogicTech Messina,Reti e Wi-Fi,Messina
+F174,DataLab Catania,Reti e Wi-Fi,Catania
+F067,NetAssist Ragusa,Reti e Wi-Fi,Ragusa
+F053,InfoTech Agrigento,Riparazione PC e hardware,Agrigento
+F038,PCPlanet Messina,Smartphone e tablet,Messina
+F185,SmartPlanet Catania,riparazione pc e hardware,Catania
+F077,DataPoint Ragusa,Riparazione PC e hardware,Ragusa
+F118,DataTech Palermo,Reti e Wi-Fi,Palermo
+F029,DigiStore Siracusa,Riparazione PC e hardware,Siracusa
+F140,PCAssist Palermo,Smartphone e tablet,Palermo
+F217,HelpPlanet Caltanissetta,Smartphone e tablet,Caltanissetta
+F079,CyberFix Palermo,Installazione e config. software,Palermo
+F033,DigiFix Caltanissetta,Installazione e config. software,Caltanissetta
+F164,LogicTech Catania,Stampanti e periferiche,Catania
+F209,ClickWorld Siracusa,Installazione e config. software,Siracusa
+F100,GigaSolution Catania,Riparazione PC e hardware,Catania
+F216,HelpTech Palermo 11,Reti e Wi-Fi,Palermo
+F107,GigaPlanet Catania,Installazione e config. software,Catania
+F288,PCService Trapani,Riparazione PC e hardware,Trapani
+F180,ProntoShop Enna,Stampanti e periferiche,Enna
+F105,GigaPoint Messina,Installazione e config. software,Messina
+F220,NetCenter Siracusa,Stampanti e periferiche,Siracusa
+F072,DigiTech Palermo,Stampanti e periferiche,Palermo
+F290,CyberTech Catania 75,Installazione e config. software,Catania
+F007,CyberSolution Catania,Stampanti e periferiche,Catania

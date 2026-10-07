@@ -1,0 +1,32 @@
+ETL TecnoSolution – esecuzione del 07/10/2026 12:55
+
+[E] clienti    letti  456 record
+[E] fornitori  letti  304 record
+[E] operatori  letti  324 record
+[E] richieste  letti  609 record
+
+[T] clienti.zona: 6 valori uniformati (maiuscole/spazi)
+[T] clienti.data_iscrizione: 13 date in formato GG/MM/AAAA convertite
+[T] clienti: 6 righe duplicate rimosse
+[T] fornitori.zona: 8 valori uniformati (maiuscole/spazi)
+[T] fornitori.categoria_servizio: 7 valori uniformati (maiuscole/spazi)
+[T] fornitori: 4 righe duplicate rimosse
+[T] operatori.zona: 5 valori uniformati (maiuscole/spazi)
+[T] operatori.tipo_attivita: 6 valori uniformati (maiuscole/spazi)
+[T] operatori: 4 righe duplicate rimosse
+[T] richieste.stato: 7 valori uniformati (maiuscole/spazi)
+[T] richieste.data_ora: 18 date in formato GG/MM/AAAA convertite
+[T] richieste.importo: 18 numeri con virgola decimale corretti
+[T] richieste: 9 righe duplicate rimosse
+[T] richieste.importo: 4 importi mancanti stimati con la mediana della categoria (segnalati con importo_stimato = 1)
+[T] richieste.importo: 2 importi mancanti di richieste annullate impostati a 0
+[T] richieste: 0 richieste precedenti alla data di iscrizione del cliente
+
+[L] dim_cliente      caricate  450 righe
+[L] dim_fornitore    caricate  300 righe
+[L] dim_operatore    caricate  320 righe
+[L] dim_tempo        caricate  365 righe
+[L] fatto_richieste  caricate  600 righe
+[L] controllo chiavi esterne: OK
+
+Data warehouse creato: data\warehouse\tecnosolution.db

@@ -82,6 +82,7 @@ def genera_clienti(rng, n, inizio, fine):
     giorni_totali = (fine - inizio).days
     # distribuzione sbilanciata verso la fine del periodo: più iscrizioni man mano che cresce
     frazioni = rng.beta(1.6, 1.0, size=n)
+    frazioni[0] = 0.0  # il primo cliente si iscrive il giorno del lancio del servizio
     date = inizio + pd.to_timedelta(np.floor(frazioni * giorni_totali), unit="D")
     df = pd.DataFrame({
         "id_cliente": [f"C{i:04d}" for i in range(1, n + 1)],
@@ -159,8 +160,6 @@ def genera_richieste(rng, n, clienti, fornitori, operatori, inizio, fine,
     for i, ts in enumerate(istanti, start=1):
         # il cliente deve essere già iscritto al momento della richiesta
         idx_validi = np.flatnonzero(iscrizioni <= np.datetime64(ts))
-        if len(idx_validi) == 0:
-            idx_validi = np.array([0])
         w = fedelta[idx_validi]
         cli = clienti.iloc[rng.choice(idx_validi, p=w / w.sum())]
 

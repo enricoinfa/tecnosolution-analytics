@@ -59,4 +59,86 @@ Parametri principali (tutti facoltativi):
 
 Le imperfezioni introdotte di proposito (maiuscole e spazi incoerenti, date in formato italiano, virgola decimale, valori mancanti, righe duplicate) servono a verificare la fase di pulizia dell'ETL.
 
-I comandi per l'ETL e la dashboard verranno aggiunti man mano che i componenti sono completati.
+### 2. Eseguire l'ETL e creare il data warehouse
+
+```
+python src/etl.py
+```
+
+Legge i CSV, li pulisce e carica il database `data/warehouse/tecnosolution.db`, ricreandolo da zero a ogni esecuzione.
+Ogni correzione applicata viene contata e salvata in `data/warehouse/log_etl.txt`.
+
+Pulizie e controlli eseguiti:
+- grafia canonica per zone, categorie, tipi di attività e stati;
+- conversione delle date in formato GG/MM/AAAA e dei numeri con la virgola decimale;
+- rimozione delle righe duplicate e dei codici ripetuti;
+- importi mancanti: 0 per le richieste annullate, mediana della categoria per le altre (segnalati con `importo_stimato = 1`);
+- integrità referenziale (ogni richiesta punta a cliente, fornitore e operatore esistenti);
+- coerenza tra stato e tempo di erogazione: oltre 48 ore la richiesta è "In ritardo".
+
+### 3. Calcolare gli indicatori
+
+```
+python src/kpi.py
+```
+
+Esegue le query di `sql/kpi.sql`: richieste totali, incassi, tempo medio di erogazione, clienti attivi, percentuale di clienti che tornano, andamento mensile, top 5 fornitori, distribuzioni per zona, categoria, giorno e ora.
+
+## Modello dei dati (schema a stella)
+
+```mermaid
+erDiagram
+    dim_cliente   ||--o{ fatto_richieste : "sk_cliente"
+    dim_fornitore ||--o{ fatto_richieste : "sk_fornitore"
+    dim_operatore ||--o{ fatto_richieste : "sk_operatore"
+    dim_tempo     ||--o{ fatto_richieste : "id_tempo"
+
+    fatto_richieste {
+        TEXT id_richiesta PK
+        INTEGER sk_cliente FK
+        INTEGER sk_fornitore FK
+        INTEGER sk_operatore FK
+        INTEGER id_tempo FK
+        INTEGER ora
+        TEXT stato
+        REAL importo
+        INTEGER importo_stimato
+        REAL tempo_erogazione_ore
+        INTEGER flag_annullata
+        INTEGER flag_ritardo
+    }
+    dim_cliente {
+        INTEGER sk_cliente PK
+        TEXT id_cliente
+        TEXT zona
+        TEXT data_iscrizione
+        TEXT anno_mese_iscrizione
+    }
+    dim_fornitore {
+        INTEGER sk_fornitore PK
+        TEXT id_fornitore
+        TEXT nome
+        TEXT categoria_servizio
+        TEXT zona
+    }
+    dim_operatore {
+        INTEGER sk_operatore PK
+        TEXT id_operatore
+        TEXT zona
+        TEXT tipo_attivita
+    }
+    dim_tempo {
+        INTEGER id_tempo PK
+        TEXT data
+        INTEGER anno
+        INTEGER trimestre
+        INTEGER mese
+        TEXT anno_mese
+        INTEGER giorno_settimana
+        INTEGER weekend
+    }
+```
+
+Granularità del fatto: una riga per richiesta di servizio. La dimensione Tempo è a livello di giorno; l'ora è un attributo del fatto. Lo schema completo è in `sql/schema.sql`.
+
+Il comando per la dashboard verrà aggiunto quando il componente sarà completato.

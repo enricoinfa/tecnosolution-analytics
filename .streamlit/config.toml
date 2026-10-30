@@ -1,6 +1,18 @@
 [theme]
-# colore principale coerente con i grafici (blu della palette)
+# tema chiaro fisso, colore principale coerente con i grafici (blu della palette)
+base = "light"
 primaryColor = "#2a78d6"
+backgroundColor = "#f5f7fb"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1b2a41"
+borderColor = "#e3e8f0"
+showWidgetBorder = true
+baseRadius = "0.6rem"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+
+[client]
+# nasconde il pulsante "Deploy" e i menu per sviluppatori
+toolbarMode = "viewer"
 
 [browser]
 gatherUsageStats = false
